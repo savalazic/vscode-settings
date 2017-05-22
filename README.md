@@ -9,7 +9,7 @@
 - Indenticator
 - JavaScript (ES6) code snippets
 - jsx
-- language-stylus
+- stylus
 - Nord
 - open-in-browser
 - Path Autocomplete
