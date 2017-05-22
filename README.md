@@ -4,7 +4,7 @@
 - Align
 - Atom Keymap
 - Document This
-- File U tils
+- File Utils
 - Guides
 - Indenticator
 - JavaScript (ES6) code snippets
