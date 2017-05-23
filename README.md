@@ -18,3 +18,4 @@
 - seti-icons
 - Sublime Babel
 - vscode-styled-jsx
+- ESLint
