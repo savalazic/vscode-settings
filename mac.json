@@ -23,7 +23,8 @@
         "dropdown.background": "#353c4a",
         "editorWidget.background": "#353c4a",
         "editor.background": "#272c36",
-        "titleBar.activeBackground": "#222731"
+        "titleBar.activeBackground": "#222731",
+        "titleBar.inactiveBackground": "#222731"
     },
     "workbench.iconTheme": "seti",
     "window.zoomLevel": 0,
