@@ -3,12 +3,14 @@
 ## Extensions
 - Align
 - Atom Keymap
+- Atom One Dark Syntax Theme
+- Color Highlight
 - Document This
+- ESLint
 - File Utils
-- Guides
+- Indent 4-to-2
 - Indenticator
-- JavaScript (ES6) code snippets
-- jsx
+- Material Theme
 - stylus
 - Nord
 - open-in-browser
@@ -18,4 +20,4 @@
 - seti-icons
 - Sublime Babel
 - vscode-styled-jsx
-- ESLint
+- Reactjs code snippets
