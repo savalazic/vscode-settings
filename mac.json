@@ -5,10 +5,18 @@
     "editor.minimap.renderCharacters": false,
     "terminal.external.osxExec": "iTerm.app",
     "editor.tabSize": 2,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
     "workbench.colorCustomizations":{
         "activityBar.background":"#222731",
         "editorGroup.background": "#222731",
         "sideBar.background": "#222731",
+        "sideBar.border": "#222731",
         "sideBarSectionHeader.background": "#222731",
         "statusBar.background": "#222731",
         "statusBar.foreground": "#d9d9d9",
@@ -17,6 +25,7 @@
         "list.activeSelectionForeground": "#fff",
         "tab.inactiveBackground": "#272c36",
         "tab.activeBackground": "#222731",
+        "list.focusBackground": "#272c36",
         "tab.border": "#272c36",
         "editorGroupHeader.tabsBackground": "#272c36",
         "input.background": "#353c4a",
@@ -24,18 +33,26 @@
         "editorWidget.background": "#353c4a",
         "editor.background": "#272c36",
         "titleBar.activeBackground": "#222731",
-        "titleBar.inactiveBackground": "#222731"
+        "titleBar.inactiveBackground": "#222731",
+        "editorGutter.background": "#272c36"
     },
     "workbench.iconTheme": "seti",
     "window.zoomLevel": 0,
     "workbench.activityBar.visible": true,
     "emmet.syntaxProfiles": {
+        "javascript": "jsx",
         "html": {
             "attr_quotes": "single"
         },
         "jsx": {
             "attr_quotes": "single"
+        },
+        "jade": {
+            "attr_quotes": "single"
         }
     },
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
     "workbench.colorTheme": "Nord"
 }
