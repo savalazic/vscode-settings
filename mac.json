@@ -45,7 +45,7 @@
             "attr_quotes": "single"
         },
         "jsx": {
-            "attr_quotes": "single"
+            "attr_quotes": "double"
         },
         "jade": {
             "attr_quotes": "single"
