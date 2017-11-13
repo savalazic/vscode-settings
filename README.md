@@ -21,3 +21,5 @@
 - Sublime Babel
 - vscode-styled-jsx
 - Reactjs code snippets
+- Bracket Pair Colorizer
+- Stylint
