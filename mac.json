@@ -34,10 +34,12 @@
         "editor.background": "#272c36",
         "titleBar.activeBackground": "#222731",
         "titleBar.inactiveBackground": "#222731",
-        "editorGutter.background": "#272c36"
+        "editorGutter.background": "#272c36",
+        "gitDecoration.ignoredResourceForeground": "#ffffff5d"
     },
     "workbench.iconTheme": "seti",
     "window.zoomLevel": 0,
+    "workbench.fontAliasing": "antialiased",
     "workbench.activityBar.visible": true,
     "emmet.syntaxProfiles": {
         "javascript": "jsx",
