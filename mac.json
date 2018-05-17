@@ -12,8 +12,8 @@
         "**/CVS": true,
         "**/.DS_Store": true
     },
-    "workbench.colorCustomizations":{
-        "activityBar.background":"#222731",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#222731",
         "editorGroup.background": "#222731",
         "sideBar.background": "#222731",
         "sideBar.border": "#222731",
@@ -53,8 +53,15 @@
             "attr_quotes": "single"
         }
     },
+    "workbench.colorTheme": "Nord",
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
-    "workbench.colorTheme": "Nord"
+    "editor.formatOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "prettier.eslintIntegration": true,
+    "javascript.format.enable": false,
+    "javascript.validate.enable": false,
+    "flow.useNPMPackagedFlow": true
 }
