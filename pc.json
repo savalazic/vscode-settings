@@ -1,34 +1,69 @@
 {
-  "editor.tabSize": 2,
-  "editor.fontSize": 14,
-  "editor.fontFamily": "Inconsolata",
-  "editor.fontWeight": "normal",
-  "editor.minimap.enabled": true,
-  "editor.minimap.renderCharacters": false,
-  "workbench.iconTheme": "seti",
-  "window.zoomLevel": 1,
   "editor.wordWrap": "on",
-  "editor.cursorBlinking": "solid",
-  "window.menuBarVisibility": "toggle",
-  "workbench.statusBar.visible": true,
-  "workbench.activityBar.visible": true,
-  "workbench.sideBar.location": "left",
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-  "workbench.colorTheme": "Nord",
-  "workbench.colorCustomizations":{
-    "activityBar.background":"#272c36",
-    "editorGroup.background": "#282c34",
-    "sideBar.background": "#272c36",
-    "statusBar.background": "#272c36",
+  "editor.minimap.enabled": true,
+  "editor.fontSize": 14,
+  "editor.minimap.renderCharacters": false,
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#222731",
+    "editorGroup.background": "#222731",
+    "sideBar.background": "#222731",
+    "sideBar.border": "#222731",
+    "sideBarSectionHeader.background": "#222731",
+    "statusBar.background": "#222731",
     "statusBar.foreground": "#d9d9d9",
     "list.hoverBackground": "#2f343e",
     "list.activeSelectionBackground": "#21242a",
     "list.activeSelectionForeground": "#fff",
-    "tab.inactiveBackground": "#282c34",
+    "tab.inactiveBackground": "#272c36",
+    "tab.activeBackground": "#222731",
+    "list.focusBackground": "#272c36",
     "tab.border": "#272c36",
     "editorGroupHeader.tabsBackground": "#272c36",
     "input.background": "#353c4a",
     "dropdown.background": "#353c4a",
-    "editorWidget.background": "#353c4a"
-  }
+    "editorWidget.background": "#353c4a",
+    "editor.background": "#272c36",
+    "titleBar.activeBackground": "#222731",
+    "titleBar.inactiveBackground": "#222731",
+    "editorGutter.background": "#272c36",
+    "gitDecoration.ignoredResourceForeground": "#ffffff5d"
+  },
+  "workbench.iconTheme": "seti",
+  "window.zoomLevel": 0,
+  "workbench.activityBar.visible": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "html": {
+      "attr_quotes": "single"
+    },
+    "jsx": {
+      "attr_quotes": "double"
+    },
+    "jade": {
+      "attr_quotes": "single"
+    }
+  },
+  "workbench.colorTheme": "Nord",
+  "fileutils.delete.useTrash": true,
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 80,
+  "prettier.trailingComma": "all",
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+  "flow.useNPMPackagedFlow": true,
 }
