@@ -21,5 +21,8 @@
 - Sublime Babel
 - vscode-styled-jsx
 - Reactjs code snippets
+- React Native Snippet
+- React Native Tools
 - Bracket Pair Colorizer
 - Stylint
+- Prettier - Code formatter
