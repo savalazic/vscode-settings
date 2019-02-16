@@ -1,28 +1,29 @@
 # Visual Studio Code Setup
 
 ## Extensions
-- Align
+- Angular Essentials
 - Atom Keymap
-- Atom One Dark Syntax Theme
+- Bracket Pair Colorizer
 - Color Highlight
 - Document This
 - ESLint
 - File Utils
+- Flow Language Support
+- Git Blame
 - Indent 4-to-2
 - Indenticator
-- Material Theme
-- stylus
 - Nord
+- npm
+- npm Intellisense
 - open-in-browser
 - Path Autocomplete
 - Path Intellisense
-- Project Manager
-- seti-icons
-- Sublime Babel
-- vscode-styled-jsx
-- Reactjs code snippets
-- React Native Snippet
-- React Native Tools
-- Bracket Pair Colorizer
-- Stylint
 - Prettier - Code formatter
+- React Native Tools
+- Reactjs code snippets
+- seti-icons
+- stylus
+- Sublime Babel
+- TSLint
+- vscode-styled-components
+- vscode-styled-jsx
