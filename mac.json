@@ -65,11 +65,18 @@
   "prettier.singleQuote": true,
   "prettier.printWidth": 80,
   "prettier.trailingComma": "all",
-  // "prettier.requireConfig": true,
+  "prettier.requireConfig": true,
   "javascript.format.enable": false,
   "javascript.validate.enable": false,
   "flow.useNPMPackagedFlow": true,
-  "javascript.updateImportsOnFileMove.enabled": "prompt",
-  "material-icon-theme.showWelcomeMessage": false,
-  "workbench.startupEditor": "newUntitledFile"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.largeFileOptimizations": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
 }

@@ -1,11 +1,13 @@
 # Visual Studio Code Setup
 
 ## Extensions
-- Angular Essentials
+- Angular Language Service
 - Atom Keymap
 - Bracket Pair Colorizer
 - Color Highlight
+- CSS Modules
 - Document This
+- Docker
 - ESLint
 - File Utils
 - Flow Language Support
@@ -27,3 +29,4 @@
 - TSLint
 - vscode-styled-components
 - vscode-styled-jsx
+
